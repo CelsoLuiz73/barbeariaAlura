@@ -19,7 +19,7 @@ No terceiro passo, tivemos aulas de lógica de programação.
 
 ![image](https://user-images.githubusercontent.com/42788520/229414812-0119c5f6-dc4b-46cd-970a-93ceec7599c9.png)
 
-No quarto passo, tivemos o inicio da criação do nosso projeto Barbearia Alura tendo contato com HTML, CSS e JavaScript.
+No quarto passo, tivemos o inicio da criação do nosso projeto Barbearia Alura tendo contato com HTML e CSS.
 
 ![image](https://user-images.githubusercontent.com/42788520/229415061-dbc1c8e0-ffb3-4307-8a18-5be83b512d1c.png)
 
